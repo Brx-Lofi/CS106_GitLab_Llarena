@@ -1,0 +1,4 @@
+Student Name: Brix Rodriguez Llarena
+Student ID: 2025-01-09560
+Section: BSCS 2B
+Course: CS 106 - App Dev
